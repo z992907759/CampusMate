@@ -1,6 +1,6 @@
 # CampusMate
 
-[立即下载 CampusMate](https://campusmate.cloud)
+[立即下载 CampusMate](https://www.campusmate.cloud)
 
 > 听不懂、跟不上、答不上。  
 > CampusMate 让你在课堂、面试、答辩这些高压场景里，少一点慌，多一点把握。
